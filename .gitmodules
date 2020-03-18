@@ -13,3 +13,6 @@
 [submodule "frontGames"]
 	path = frontGames
 	url = git@github.com:uri247/frontGames.git
+[submodule "unixSocketGames"]
+	path = unixSocketGames
+	url = git@github.com:uri247/unixSocketGames
