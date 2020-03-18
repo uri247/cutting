@@ -1,0 +1,15 @@
+[submodule "boostGames"]
+	path = boostGames
+	url = git@github.com:uri247/boostGames.git
+[submodule "FitchCheney"]
+	path = FitchCheney
+	url = git@github.com:uri247/FitchCheney.git
+[submodule "bashGames"]
+	path = bashGames
+	url = git@github.com:uri247/bashGames.git
+[submodule "qotd"]
+	path = qotd
+	url = git@github.com:uri247/qotd.git
+[submodule "frontGames"]
+	path = frontGames
+	url = git@github.com:uri247/frontGames.git
