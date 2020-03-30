@@ -16,3 +16,6 @@
 [submodule "unixSocketGames"]
 	path = unixSocketGames
 	url = git@github.com:uri247/unixSocketGames
+[submodule "pipeLineReader"]
+	path = pipeLineReader
+	url = git@github.com:uri247/pipeLineReader
