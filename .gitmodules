@@ -19,3 +19,6 @@
 [submodule "pipeLineReader"]
 	path = pipeLineReader
 	url = git@github.com:uri247/pipeLineReader
+[submodule "springGames"]
+	path = springGames
+	url = ./springGames
