@@ -22,3 +22,6 @@
 [submodule "springGames"]
 	path = springGames
 	url = ./springGames
+[submodule "qtGames"]
+	path = qtGames
+	url = git@github.com:uri247/qtGames.git
