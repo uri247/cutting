@@ -25,6 +25,3 @@
 [submodule "qtGames"]
 	path = qtGames
 	url = git@github.com:uri247/qtGames.git
-[submodule "euler"]
-	path = euler
-	url = ./euler
