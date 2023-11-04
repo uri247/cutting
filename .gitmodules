@@ -25,3 +25,6 @@
 [submodule "qtGames"]
 	path = qtGames
 	url = git@github.com:uri247/qtGames.git
+[submodule "demdemo"]
+	path = demdemo
+	url = git@bitbucket.org:uri365/demdemo.git
