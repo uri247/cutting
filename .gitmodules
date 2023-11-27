@@ -28,3 +28,6 @@
 [submodule "demdemo"]
 	path = demdemo
 	url = git@bitbucket.org:uri365/demdemo.git
+[submodule "WpfCrashCourse"]
+	path = WpfCrashCourse
+	url = .\\WpfCrashCourse\\
